@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Prateekbangwal
-- 👀 I’m interested in Data analysis and machine learninf
+- 👀 I’m interested in Data analysis and machine learning
 - 🌱 I’m currently working as Senior Data Analyst
 - 💞️ I’m looking to collaborate on ML/Dl/Analysis projects
 - 📫 How to reach me Email:prateekbangwal22@gmail.com
